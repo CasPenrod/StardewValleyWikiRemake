@@ -1,0 +1,12 @@
+
+.clockimagebackground{
+    height:270px;
+    width: 275px;
+    border-color: 3 px rgb(151, 142, 142);
+    background-color: rgba(240, 253, 255, 0.753);
+}
+.clockimage{
+    height:150px;
+    width: 200px;
+    border-color: 2px gray;
+}

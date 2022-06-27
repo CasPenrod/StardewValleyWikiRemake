@@ -1,0 +1,77 @@
+.svwikilogo {
+height:90px;
+width: 100px;
+}
+
+body {
+    background-image: url('../Images/mainsitebackground.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-size: smaller;
+}
+
+h1{
+    font-size:28px;
+    font-weight: bold;
+}
+h2{
+    font-size:21px; 
+}
+h3{
+    font-size:19px; 
+}
+h4{
+    font-size:15px;
+    font-weight: bold; 
+}
+
+
+.basicitemsgameplaytable th {
+    background-color: #03a007;
+    color: white;
+    text-shadow: black;
+    padding: 2px;
+}
+.basicitemsgameplaytable td {
+    background-color: #ffffff94;
+    font-size: 12px;
+    padding: 2px;
+}
+
+.leftsidenavbar {
+    background-color: rgba(255, 255, 255, 0.626);
+    width: 200%;
+    border: 3px solid rgb(200, 122, 14);
+    padding-right:20px;
+    padding-left:15px;
+    margin: 0px;
+    font-size:x-small;
+}
+
+.nav-link{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size:x-small;
+}
+
+.Whitetransparentbackground {
+    background-color: rgba(255, 255, 255, 0.674);
+    width: 89%;
+    border: .5px solid white;
+    padding-right:  20px; 
+    padding-left: 2px;
+    margin-right: 20px;
+    margin-left:2px;
+}
+
+.contentol {
+    background-color: rgba(255, 255, 255, 0.432);
+    width: 17%;
+    border: .5px solid gray;
+    padding: 25px;
+    margin: 5px;
+}
+
+ 

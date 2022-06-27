@@ -1,0 +1,13 @@
+.healthbarbackground {
+    height: 250px;
+    width: 60px;
+    background-color: rgba(240, 253, 255, 0.753);
+}
+
+.healthbar {
+    height: 200px;
+    width: 55px;
+}
+.healthbarp {
+    font-size: 10px;
+}
